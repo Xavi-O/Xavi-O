@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Xavier
 #### I am a web developer form Nairobi, Kenya
-![I am a web developer form Nairobi, Kenya](https://pbs.twimg.com/profile_banners/4350827968/1598783465/600x200)
+![I am a web developer form Nairobi, Kenya](https://github.com/Xavi-O/Xavi-O/blob/main/logo.png)
 
 I am a recent graduate who had recently undertaken a course in Business Information Technology. I am very enthusiastic about modern tech and I found my niche in programming, specifically web development. Currently, I am working on a personal Laravel PHP framework project as part of learning experience.
 
