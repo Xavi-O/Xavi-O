@@ -1,15 +1,13 @@
 ![I am a web developer form Nairobi, Kenya](https://github.com/Xavi-O/Xavi-O/blob/main/preview.gif)
 
-### Hi there 👋, I am Xavier
-#### I am a web developer form Nairobi, Kenya
+Hello, 
 
-I am a recent graduate who had recently undertaken a course in Business Information Technology. I am very enthusiastic about modern tech and I found my niche in programming, specifically web development. Currently, I am working on a personal Laravel PHP framework project as part of learning experience.
+I am a data analyst with a passion for web development. I have a strong background in statistics, programming and web development. I am proficient in using tools such as R, Python, SQL, and Excel for data analysis, and have experience with HTML, CSS, JavaScript and various web development frameworks.
 
-Skills: / JS / HTML / CSS / PHP / MYSQL / ANGULAR / LARAVEL
+I have a proven track record of delivering high-quality data-driven solutions to clients, and I am able to extract insights from large and complex datasets. I am also able to build and design responsive and interactive web applications that are tailored to the needs of my clients.
 
-- 🔭 I’m currently working on Personal Laravel project 
-- 🌱 I’m currently learning Laravel framework 
+I am a highly motivated and detail-oriented professional who is committed to delivering results. I am always eager to learn new skills and technologies, and I am constantly looking for ways to improve my workflow.
 
+You can find some of my data analysis and web development projects on my GitHub profile. I am always open to collaborate and discuss new ideas, so please don't hesitate to reach out.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Xavi-O)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/xavier-odhiambo-8400a0139/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@O_Xavi_R)  
-
+Thank you for visiting my profile!
