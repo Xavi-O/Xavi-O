@@ -1,13 +1,18 @@
 ![I am a web developer form Nairobi, Kenya](https://github.com/Xavi-O/Xavi-O/blob/main/preview.gif)
 
-Hello, 
+Hello,
 
-I am a data analyst with a passion for web development. I have a strong background in statistics, programming and web development. I am proficient in using tools such as R, Python, SQL, and Excel for data analysis, and have experience with HTML, CSS, JavaScript and various web development frameworks.
 
-I have a proven track record of delivering high-quality data-driven solutions to clients, and I am able to extract insights from large and complex datasets. I am also able to build and design responsive and interactive web applications that are tailored to the needs of my clients.
+I am a front-end developer with a strong background in web development and a passion for creating engaging user experiences. I am proficient in HTML, CSS, JavaScript, and various web development frameworks, such as React, Angular, and Next.js.
 
-I am a highly motivated and detail-oriented professional who is committed to delivering results. I am always eager to learn new skills and technologies, and I am constantly looking for ways to improve my workflow.
 
-You can find some of my data analysis and web development projects on my GitHub profile. I am always open to collaborate and discuss new ideas, so please don't hesitate to reach out.
+I have a proven track record of delivering high-quality, responsive, and interactive web applications tailored to the needs of my clients. My experience in data analysis, using tools like R, Python, SQL, and Excel, allows me to incorporate data-driven insights into my web development projects, ensuring optimal performance and user satisfaction.
+
+
+As a highly motivated and detail-oriented professional, I am committed to delivering results and constantly seeking ways to improve my workflow. I am always eager to learn new skills and technologies to stay at the forefront of the ever-evolving web development landscape.
+
+
+You can find some of my web development projects on my GitHub profile, showcasing my expertise in front-end development and data-driven solutions. I am always open to collaboration and discussing new ideas, so please don't hesitate to reach out.
+
 
 Thank you for visiting my profile!
